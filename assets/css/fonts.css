@@ -1,0 +1,49 @@
+/* @font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikBlack.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+
+} */
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikBold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikExtralight.otf") format("opentype");
+    font-weight: lighter;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikLight.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikRegular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikMedium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "Graphik";
+    src: url("../new-fonts/GraphikSemibold.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+
+}
