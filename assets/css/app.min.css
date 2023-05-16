@@ -10228,3 +10228,11 @@ circle {
 .accordion-button.collapsed i {
     transform: rotate(0deg);
 }
+
+.git-section {
+    padding: 40px 0;
+}
+
+.git-section h2 {
+    margin-bottom: 3rem;
+}
