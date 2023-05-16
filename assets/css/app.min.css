@@ -222,7 +222,7 @@ html {
 body {
     height: 100%;
     color: rgba(19, 17, 26, .8);
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: baseline;
@@ -860,7 +860,7 @@ ul {
 }
 
 .h1 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 80px;
@@ -870,7 +870,7 @@ ul {
 }
 
 .h2 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 48px;
@@ -879,7 +879,7 @@ ul {
 }
 
 .h3 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 30px;
@@ -888,7 +888,7 @@ ul {
 }
 
 .h4 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 24px;
@@ -898,7 +898,7 @@ ul {
 }
 
 .h5 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 20px;
@@ -907,13 +907,13 @@ ul {
 }
 
 .h6 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
 }
 
 h1 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 80px;
@@ -923,7 +923,7 @@ h1 {
 }
 
 h2 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 48px;
@@ -932,7 +932,7 @@ h2 {
 }
 
 h3 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 30px;
@@ -941,7 +941,7 @@ h3 {
 }
 
 h4 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 24px;
@@ -951,7 +951,7 @@ h4 {
 }
 
 h5 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
     font-size: 20px;
@@ -960,7 +960,7 @@ h5 {
 }
 
 h6 {
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     font-weight: 700;
 }
@@ -3046,7 +3046,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
     border-radius: 3px;
     padding: 20px 55px;
     font-weight: 700;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     width: fit-content;
     position: relative;
     z-index: 1;
@@ -3173,7 +3173,7 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
     font-size: 16px;
     line-height: 24px;
     font-weight: 700;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     width: fit-content;
     position: relative;
     z-index: 1;
@@ -4228,7 +4228,7 @@ button#fugu--search-btn {
     line-height: 28px;
     color: var(--gray-10);
     margin: 0 0 10px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--card-data p {
@@ -4264,7 +4264,7 @@ button#fugu--search-btn {
     line-height: 28px;
     color: var(--gray-10);
     margin: 0;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--card-wrap.fugu--card2 {
@@ -4865,7 +4865,7 @@ a.fugu-app-btn:last-child {
 
 .fugu--hero-content2 h1 {
     color: var(--gray-800);
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--hero-content2 p {
@@ -5324,7 +5324,7 @@ a.fugu-app-btn:last-child {
     line-height: 28px;
     margin-bottom: 10px;
     color: var(--gray-10);
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--team-data p {
@@ -5584,7 +5584,7 @@ a.fugu-app-btn:last-child {
     font-weight: 600;
     font-size: 24px;
     margin-bottom: 15px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     display: inline-block;
     padding: 0 10px;
     color: #fff;
@@ -5763,7 +5763,7 @@ a.fugu-app-btn:last-child {
 .fugu-accordion-wrap2 .fugu-accordion-item h4 {
     margin: 0;
     font-weight: 700;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 a.fugu-faq-btn {
@@ -5801,7 +5801,7 @@ a.fugu-faq-btn:hover {
     font-weight: 600;
     font-size: 20px;
     line-height: 1;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     background-color: transparent;
 }
@@ -5899,7 +5899,7 @@ a.fugu-faq-btn:hover {
     font-weight: 600;
     font-size: 24px;
     line-height: 1;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
     background-color: transparent;
 }
@@ -6205,7 +6205,7 @@ a.fugu-popup img:hover {
     line-height: 28px;
     font-weight: 700;
     margin-bottom: 15px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu-testimonial-card p {
@@ -6239,7 +6239,7 @@ a.fugu-popup img:hover {
     font-size: 18px;
     margin-bottom: 0;
     line-height: 1;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu-testimonial-author-data span {
@@ -6621,7 +6621,7 @@ a.fugu-popup img:hover {
     margin: 0;
     font-weight: 600;
     letter-spacing: -0.5px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu-client-title.text-white h5 {
@@ -6912,7 +6912,7 @@ a.fugu-popup img:hover {
     margin: 0;
     font-size: 60px;
     font-weight: 700;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-800);
 }
 
@@ -7493,7 +7493,7 @@ a.fugu-pricing-btn.active {
 
 .fugu--default-content.content-black h2 {
     color: var(--gray-800);
-    font-family: "Public Sans", sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--default-content.content-black p {
@@ -8427,7 +8427,7 @@ a.fugu-pricing-btn.active {
     line-height: 38px;
     font-weight: 600;
     display: inline-block;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     border-bottom: 2px solid var(--gray-800);
 }
 
@@ -8480,7 +8480,7 @@ a.fugu-pricing-btn.active {
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu-recent-post-item h6 a {
@@ -8720,7 +8720,7 @@ a.fugu-pricing-btn.active {
 .fugu-comment-author-data h6 {
     font-size: 14px;
     font-weight: 600;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     margin-bottom: 5px;
 }
 
@@ -8926,12 +8926,12 @@ button#fugu-input-submit:hover {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 25px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     color: var(--gray-10);
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 25px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--blog-sidebar-item:last-child {
@@ -9012,13 +9012,13 @@ button#fugu-input-submit:hover {
     font-weight: 600;
     font-size: 18px;
     line-height: 30px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     margin: 0;
     color: #fff;
     font-weight: 600;
     font-size: 18px;
     line-height: 30px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     margin: 0;
 }
 
@@ -9280,7 +9280,7 @@ button#fugu-input-submit:hover {
     font-weight: 600;
     margin-bottom: 5px;
     color: #fff;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--blockquote-user-data p {
@@ -9303,7 +9303,7 @@ button#fugu-input-submit:hover {
 
 .fugu--tags.fugu--tags2 h4 {
     margin-bottom: 30px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--post-navigation {
@@ -9396,7 +9396,7 @@ button#fugu-input-submit:hover {
     font-weight: 700;
     font-size: 24px;
     margin-bottom: 30px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--comment-list {
@@ -9465,7 +9465,7 @@ button#fugu-input-submit:hover {
 }
 
 .fugu--comment-meta h5 {
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     font-weight: 600;
     font-size: 14px;
     margin-bottom: 10px;
@@ -9490,7 +9490,7 @@ button#fugu-input-submit:hover {
     font-weight: 700;
     font-size: 24px;
     margin-bottom: 15px;
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
 }
 
 .fugu--comment-respond-area p {
@@ -9560,7 +9560,7 @@ button#fugu-input-submit:hover {
 }
 
 .fugu--contact-info h4 {
-    font-family: Inter, sans-serif;
+   font-family :  "Graphik", sans-serif;
     margin-bottom: 40px;
 }
 
