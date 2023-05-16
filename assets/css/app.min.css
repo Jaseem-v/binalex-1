@@ -10236,3 +10236,55 @@ circle {
 .git-section h2 {
     margin-bottom: 3rem;
 }
+
+
+
+@media (max-width: 990px) {
+    .fugu-apps-thumb {
+        position: relative;
+        transform: rotate(0deg) translateY(-60px) translateX(62px);
+        margin-left: 60px;
+    }
+
+    .fugu-hero-thumb {
+        position: relative;
+    }
+}
+
+@media (max-width: 765px) {
+    .fugu-btn.fugu-header-btn {
+        margin-left: 0;
+    }
+
+    .fugu--accordion-one .accordion-body {
+        padding-right: 0;
+    }
+
+    .collection-grid-item {
+        margin-bottom: 25px;
+    }
+
+    .fugu-iconbox-border:before {
+        display: none;
+    }
+
+    .fugu-iconbox-wrap6 .icon-box {
+        margin-top: 0;
+    }
+
+    .fugu-apps-thumb {
+        margin-left: 0;
+        transform: rotate(0deg) translateY(-60px);
+    }
+
+    .card-coin {
+        margin-bottom: 20px;
+    }
+
+    .copyright {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+
+}
