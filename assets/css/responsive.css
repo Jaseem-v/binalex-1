@@ -1,0 +1,1947 @@
+@media print {
+    * {
+        background: 0 0 !important;
+        color: #000 !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    :after {
+        background: 0 0 !important;
+        color: #000 !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    :before {
+        background: 0 0 !important;
+        color: #000 !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre {
+        white-space: pre-wrap !important;
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    img {
+        page-break-inside: avoid;
+    }
+
+    tr {
+        page-break-inside: avoid;
+    }
+
+    h2 {
+        orphans: 3;
+        widows: 3;
+        page-break-after: avoid;
+    }
+
+    h3 {
+        orphans: 3;
+        widows: 3;
+        page-break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1669px) {
+    .fugu-text-slider-area1 {
+        padding: 13px 0;
+    }
+
+    .fugu-text-slider-area2 {
+        padding: 13px 0;
+        margin-top: -65px;
+    }
+
+    .fugu-text-slider-data h3 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1650px) {
+    .fugu-shape3 {
+        left: -5%;
+    }
+}
+
+
+@media (max-width: 1600px) {
+    .fugu--hero-shape1 {
+        right: 3%;
+    }
+
+    .fugu--hero-shape2 {
+        right: 0;
+    }
+}
+
+
+@media (max-width: 1500px) {
+    .fugu-text-slider-data h3 {
+        font-size: 18px;
+    }
+}
+
+
+
+@media (max-width: 1400px) {
+    .fugu--hero-shape1 {
+        right: 0;
+    }
+
+    .fugu--hero-right {
+        width: 100%;
+    }
+
+    .fugu--hero-mocup.mocup1 {
+        top: 15%;
+        width: 17.5%;
+        left: -20%;
+    }
+
+    .fugu--hero-mocup.mocup2 {
+        bottom: -15%;
+        width: 20%;
+        left: -10%;
+    }
+
+    .fugu--hero-mocup.mocup3 {
+        top: 0;
+        width: 17.7%;
+        right: -24%;
+    }
+
+    .fugu--hero-mocup.mocup4 {
+        bottom: -15%;
+        width: 20%;
+        right: -10%;
+    }
+
+    .fugu--iconbox-wrap {
+        padding: 0;
+    }
+
+    .fugu--video-section .fugu--default-content {
+        padding: 0;
+    }
+
+    .fugu--cta-wrap {
+        padding: 80px;
+    }
+
+    .fugu--feature-wrap {
+        padding: 0 30px;
+        padding-right: 0;
+        padding-bottom: 90px;
+    }
+}
+
+
+@media (max-width: 1399px) {
+    .fugu-hero-thumb {
+        right: -10%;
+    }
+
+    .fugu-counter-data {
+        padding: 25px;
+        width: 200px;
+        height: 200px;
+    }
+
+    .fugu-testimonial-slider2 .fugu-testimonial-card2 {
+        margin: 0 20px;
+    }
+
+    .fugu-testimonial-card3 {
+        padding: 29px;
+    }
+
+    .fugu-default-content.large-content h2 {
+        font-size: 62px;
+        line-height: 70px;
+    }
+
+    .fugu-trading-card2 .fugu-trading-card-thumb2 {
+        left: 5%;
+    }
+
+    .fugu-trading-section2 {
+        padding: 120px 0;
+    }
+
+    .fugu-default-content.contact-page {
+        margin-right: 0;
+    }
+}
+
+
+
+@media (max-width: 700px) {
+    .fugu--video-shape1 {
+        display: none;
+        display: none;
+    }
+
+    .fugu--video-shape2 {
+        display: none;
+        display: none;
+    }
+
+    .fugu--content-shape {
+        display: none;
+        display: none;
+    }
+}
+
+
+@media (max-width: 1300px) {
+    .fugu--contact-info.fugu--contact-info2 {
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .fugu-text-slider-section {
+        padding: 0;
+    }
+
+    .fugu-text-slider-area1 {
+        margin: 0;
+        transform: rotate(0);
+    }
+
+    .fugu-text-slider-area2 {
+        margin: 0;
+        transform: rotate(0);
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .fugu--team-three .fugu--team-thumb {
+        width: 175px;
+        height: 175px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .fugu-apps-thumb {
+        margin: 0;
+    }
+}
+
+@media (max-width: 1100px) {
+    .fugu-hero-thumb {
+        right: -27%;
+    }
+}
+
+@media (max-width: 1199px) {
+    .fugu-hero-thumb {
+        right: -24%;
+    }
+
+    .fugu--hero-shape1 {
+        bottom: 0;
+        width: 70%;
+    }
+
+    .fugu--hero-section2 {
+        padding: 150px 0 120px;
+    }
+
+    .fugu--hero-mocup.mocup1 {
+        top: 15%;
+        width: 15%;
+        left: -13%;
+    }
+
+    .fugu--hero-mocup.mocup2 {
+        width: 15%;
+    }
+
+    .fugu--hero-mocup.mocup3 {
+        width: 15%;
+        right: -13%;
+    }
+
+    .fugu--hero-mocup.mocup4 {
+        width: 15%;
+        right: -5%;
+    }
+
+    .fugu-counter-section .fugu-default-content {
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .fugu-counter-wrap {
+        margin-bottom: 30px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .fugu-counter-data {
+        padding: 30px;
+        width: 220px;
+        height: 220px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data h2 {
+        font-size: 48px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data h2:before {
+        width: 78px;
+        height: 78px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data p {
+        font-size: 24px;
+    }
+
+    .fugu-team-single-wrap {
+        padding: 40px;
+    }
+
+    .fugu-team-single-data {
+        margin-left: 40px;
+    }
+
+    .fugu-iconbox-wrap6 {
+        padding: 0 5px;
+    }
+
+    .fugu--roadmap-section .col-xl-3.col-md-6:nth-child(2) .fugu--iconbox-wrap:before {
+        content: none;
+    }
+
+    .fugu-accordion-wrap2 .fugu-accordion-item h4 {
+        font-size: 20px;
+    }
+
+    .fugu--accordion-one .accordion-body {
+        padding: 0 0 25px;
+    }
+
+    .fugu--video-thumb {
+        margin: 0 0 30px;
+    }
+
+    .fugu--video-wrap .fugu--popup {
+        width: 120px;
+        height: 120px;
+    }
+
+    .fugu--video-column .fugu--video-thumb {
+        margin: 0;
+        margin-right: 20px;
+    }
+
+    .fugu-testimonial-btn {
+        margin-top: 50px;
+    }
+
+    .fugu--shape-art {
+        top: -35%;
+        right: -35%;
+        top: -35%;
+        right: -35%;
+    }
+
+    .fugu--video-shape1 {
+        right: 0;
+        right: 0;
+    }
+
+    .fugu--video-shape2 {
+        right: 0;
+        right: 0;
+    }
+
+    .fugu--content-shape {
+        bottom: auto;
+        height: 100%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        bottom: auto;
+        height: 100%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .fugu-default-content.large-content h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    .fugu-shape3 {
+        left: -12%;
+    }
+
+    .fugu--portfolio-menu ul {
+        justify-content: space-between;
+    }
+
+    .fugu--portfolio-menu ul li {
+        margin: 0 0 15px;
+        flex: 0 0 32.2%;
+    }
+
+    .fugu--client-section {
+        padding: 0 0 100px;
+    }
+
+    .fugu--content-top .fugu--content-thumb {
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .fugu--content-bottom .fugu--content-thumb {
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .fugu--content-bottom .fugu--default-content {
+        padding: 0;
+    }
+
+    .fugu-innovative-services-section .fugu-default-content h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .fugu-about-section .fugu-default-content h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .fugu-about-thumb {
+        margin-right: 50px;
+    }
+
+    .fugu-about-thumb2 {
+        right: -10%;
+        position: absolute;
+        width: 50%;
+    }
+
+    .fugu-counter-rating ul {
+        justify-content: center;
+    }
+
+    .fugu--feature-wrap {
+        padding-bottom: 0;
+        padding-right: 0;
+    }
+
+    .col-xl-4.col-md-6:nth-child(2) .fugu--feature-wrap {
+        padding-top: 0;
+    }
+
+    .fugu-blog-single-wrap {
+        margin: 0;
+    }
+
+    .fugu--blog-filtering .fugu--portfolio-menu {
+        margin-top: 30px;
+        margin-top: 30px;
+    }
+
+    .fugu--blog-filtering .fugu--portfolio-menu ul li {
+        flex: 0 0 19%;
+        flex: 0 0 19%;
+    }
+
+    .fugu--blog-filtering .fugu--section-title-wrap {
+        display: block;
+        margin-bottom: 60px;
+        display: block;
+        margin-bottom: 60px;
+    }
+
+    .fugu--post-navigation-data span {
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .fugu-hero-section {
+        padding: 170px 0 0;
+    }
+
+    .fugu-hero-content {
+        margin: 0 50px 50px;
+        text-align: center;
+    }
+
+    .fugu-hero-content h1 {
+        padding: 0 20px;
+    }
+
+    .fugu-app-btn-wrap {
+        margin: 40px 0 60px;
+    }
+
+    .fugu-hero-client-area {
+        justify-content: center;
+    }
+
+    .fugu-hero-thumb {
+        position: relative;
+        right: 0 !important;
+    }
+
+    .fugu-hero-section2 {
+        padding: 160px 0 405px;
+    }
+
+    .fugu-hero-btn-wrap {
+        margin-top: 40px;
+    }
+
+    .fugu--hero-section {
+        padding: 175px 0 100px;
+    }
+
+    .fugu--hero-content {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .fugu--hero-content p {
+        margin-right: 0;
+    }
+
+    .fugu--hero-shape1 {
+        right: 110px;
+        width: 100%;
+    }
+
+    .fugu--btn-wrap.fugu--hero-btn {
+        margin: 35px 0 0;
+    }
+
+    .fugu--hero-right {
+        float: none;
+        transform: rotate(0) !important;
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 480px;
+    }
+
+    .fugu--hero-content2 {
+        max-width: 565px;
+    }
+
+    .fugu--hero-section3 {
+        padding: 175px 0 100px;
+    }
+
+    .fugu--thumb-three {
+        text-align: center;
+        margin-top: 150px;
+    }
+
+    .fugu--counter-wrap {
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    .fugu--counter-wrap2 {
+        margin: 30px 0 0;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data p {
+        font-size: 20px;
+    }
+
+    .fugu-team-page {
+        padding-top: 100px;
+    }
+
+    .fugu-single-team-page {
+        padding: 100px 0;
+    }
+
+    .fugu-team-single-thumb {
+        margin-bottom: 30px;
+    }
+
+    .fugu-team-single-data {
+        margin: 0;
+    }
+
+    .fugu--team-two {
+        padding: 0 0 100px;
+    }
+
+    .version-04.fugu--team-two {
+        padding: 100px 0 60px;
+    }
+
+    .fugu-iconbox-wrap {
+        padding: 30px;
+        background-color: var(--warning-300);
+    }
+
+    .fugu-iconbox-icon {
+        margin-right: 30px;
+    }
+
+    .fugu-iconbox-wrap3 {
+        padding: 30px;
+        background-color: #0d0d0e;
+    }
+
+    .fugu-iconbox-border:before {
+        width: calc(100% - 50%);
+    }
+
+    .fugu--iconbox-wrap3 {
+        padding: 30px;
+    }
+
+    .fugu-accordion-wrap2 {
+        margin-top: 40px;
+    }
+
+    a.fugu-faq-btn {
+        position: inherit;
+    }
+
+    .nexto-accordion-one.two {
+        margin-top: 30px;
+    }
+
+    .fugu-tab-menu {
+        margin-bottom: 40px;
+    }
+
+    .fugu--faq-section .fugu--default-content {
+        max-width: 500px;
+    }
+
+    .fugu--accordion-one.accordion-four .accordion-body {
+        padding: 0 0 30px 0;
+    }
+
+    .fugu-video-thumb {
+        margin-bottom: 30px;
+    }
+
+    a.fugu-popup img {
+        width: 90px;
+    }
+
+    .fugu--video-wrap .fugu--popup {
+        width: 100px;
+        height: 100px;
+    }
+
+    .fugu--video-column .fugu--video-thumb:last-child {
+        padding-top: 80px;
+    }
+
+    .fugu-testimonial-slider2 .fugu-testimonial-card2 {
+        margin: 0;
+    }
+
+    .fugu--testimonial-wrap {
+        padding: 30px;
+    }
+
+    .fugu--testimonial-button {
+        margin-top: 36px;
+    }
+
+    .fugu-cta-section .fugu-default-content.large-content {
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto 30px;
+    }
+
+    .fugu-cta-app-btn-wrap {
+        text-align: center;
+    }
+
+    .fugu--cta-wrap {
+        text-align: center;
+    }
+
+    .fugu--social-icon2 {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .fugu-icon-list {
+        margin-top: 30px;
+    }
+
+    .fugu-icon-list2 {
+        margin-top: 30px;
+    }
+
+    .fugu-icon-list3 {
+        margin-top: 30px;
+    }
+
+    .pricing-btn {
+        margin-bottom: 30px;
+    }
+
+    .fugu-pricing-wrap {
+        padding: 30px;
+    }
+
+    .fugu-section-padding {
+        padding: 100px 0;
+    }
+
+    .fugu-section-padding2 {
+        padding: 90px 0 100px;
+    }
+
+    .fugu-section-padding3 {
+        padding: 90px 0 76px;
+    }
+
+    .fugu-section-title {
+        margin: 0 auto 45px;
+        max-width: 590px;
+    }
+
+    .fugu-section-title.title-large h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    .fugu-section-title2 {
+        margin: 0 auto 45px;
+        max-width: 590px;
+        text-align: center;
+    }
+
+    .fugu-section-title2 h2 {
+        margin: 0 auto 15px;
+    }
+
+    .fugu--section-padding {
+        padding: 90px 0 100px;
+    }
+
+    .fugu--section-padding2 {
+        padding: 90px 0 75px;
+    }
+
+    .fugu--section-padding-bottom {
+        padding: 0 0 100px;
+    }
+
+    .fugu--section-title {
+        margin: 0 auto 50px;
+    }
+
+    .fugu--section-title-wrap {
+        margin-bottom: 60px;
+        display: block;
+        margin: 0 auto 60px;
+    }
+
+    .fugu--section-title-wrap .fugu--section-title {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .fugu--default-content.content-sm h2 {
+        font-size: 40px;
+    }
+
+    .fugu--section-title2 {
+        margin-bottom: 45px;
+        text-align: center;
+    }
+
+    .fugu-apps-thumb {
+        margin: 0 0 50px;
+        text-align: center;
+        transform: none !important;
+    }
+
+    .fugu-shape3 {
+        left: 5%;
+    }
+
+    .fugu-error-content {
+        padding: 150px 0 90px;
+    }
+
+    .fugu-error-content h1 {
+        font-size: 120px;
+        line-height: 140px;
+    }
+
+    .fugu-error-content p {
+        margin-bottom: 35px;
+    }
+
+    .coming-soon-logo {
+        margin-bottom: 50px;
+    }
+
+    .coming-soon-content {
+        margin: 0 auto 40px;
+    }
+
+    .fugu-countdown-wrap {
+        margin-bottom: 40px;
+    }
+
+    .fugu-countdown-item .number {
+        font-size: 40px;
+    }
+
+    .fugu-btn-wrap {
+        margin-top: 40px;
+    }
+
+    .fugu--portfolio-menu {
+        margin-bottom: 35px;
+    }
+
+    .fugu--portfolio-btn {
+        margin-top: 35px;
+    }
+
+    .fugu--section-button {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .fugu--text-slider-data h3 {
+        font-size: 24px;
+    }
+
+    .fugu--roadmap-section {
+        padding: 100px 0 60px;
+    }
+
+    .fugu--newslatter-wrap {
+        padding: 70px;
+    }
+
+    .fugu-trading-card-thumb {
+        margin-bottom: 40px;
+    }
+
+    .fugu-trading-card-thumb img {
+        width: 100%;
+    }
+
+    .fugu-trading-card2 .fugu-trading-card-thumb {
+        padding-left: 160px;
+        margin-bottom: 80px;
+    }
+
+    .fugu-trading-card2 .fugu-trading-card-thumb2 {
+        left: 0;
+    }
+
+    .fugu-trading-section2 {
+        padding: 100px 0;
+    }
+
+    .fugu--about-section {
+        padding: 100px 0;
+    }
+
+    .fugu--about-section .fugu--default-content {
+        max-width: 500px;
+    }
+
+    .fugu--swiper-slider-wrap {
+        margin-bottom: 40px;
+    }
+
+    .fugu--artwork-section {
+        padding: 100px 0 0;
+    }
+
+    .fugu--artwork-section .fugu--default-content {
+        max-width: 500px;
+    }
+
+    .fugu--artwork-right {
+        text-align: center;
+    }
+
+    .fugu--artwork-right.left {
+        text-align: center;
+    }
+
+    .fugu--artwork-thumb {
+        transform: rotate(0) !important;
+        margin-bottom: 40px;
+    }
+
+    .fugu--roadmap-v2 .fugu--section-title {
+        margin: 0 0 50px;
+    }
+
+    .fugu--content-top {
+        padding: 0 0 100px;
+    }
+
+    .fugu--content-top .fugu--default-content {
+        max-width: 550px;
+    }
+
+    .fugu--content-bottom .fugu--content-thumb .fugu--bitcoin {
+        right: -40px;
+    }
+
+    .fugu--content-bottom .fugu--default-content {
+        max-width: 550px;
+    }
+
+    .fugu-innovative-services-section {
+        padding-top: 100px;
+    }
+
+    .fugu-innovative-services-thumb {
+        padding-bottom: 30px;
+    }
+
+    .fugu-innovative-services-thumb img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .fugu-chart-thumb {
+        margin-bottom: 30px;
+    }
+
+    .fugu-about-section {
+        padding: 100px 0;
+    }
+
+    .fugu-about-thumb {
+        display: block;
+        margin: 0 0 50px;
+        padding-right: 100px;
+    }
+
+    .fugu-about-thumb2 {
+        right: 12px;
+        width: 40%;
+    }
+
+    .fugu--vision-section {
+        padding: 5px 0 0;
+    }
+
+    .fugu--faq-section.dark-version .fugu--section-title {
+        margin: 0 auto 25px;
+    }
+
+    .fugu--faq-section.dark-version .fugu--default-content {
+        margin: 0 auto;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    .fugu--feature-wrap {
+        padding: 0 25px;
+        padding-right: 0;
+    }
+
+    .fugu-blog-thumb {
+        height: auto;
+    }
+
+    .fugu-blog-sidebar {
+        margin-top: 40px;
+    }
+
+    .fugu-input-field-section .fugu-input-field textarea {
+        height: 150px;
+    }
+
+    .fugu--blog-top-wrap .fugu--blog-thumb {
+        margin: 0;
+        height: auto;
+        margin: 0;
+        height: auto;
+    }
+
+    .fugu--blog-top-wrap .fugu--blog-content {
+        position: inherit;
+        transform: inherit;
+        width: 100%;
+        border: none;
+        border-radius: 0;
+        position: inherit;
+        transform: inherit;
+        width: 100%;
+        border: none;
+        border-radius: 0;
+    }
+
+    .fugu--blog-sidebar-section.light-version {
+        padding-bottom: 100px;
+        padding-bottom: 100px;
+    }
+
+    .fugu--blog-filtering.dark-version {
+        padding-top: 95px;
+        padding-top: 95px;
+    }
+
+    .fugu--blog-filtering .fugu--portfolio-menu ul li {
+        flex: 0 0 23%;
+        flex: 0 0 23%;
+    }
+
+    .fugu--blog-sidebar {
+        margin-top: 40px;
+        margin-top: 40px;
+    }
+
+    .fugu--blog-sidebar .fugu--newsletter {
+        max-width: 100%;
+        max-width: 100%;
+    }
+
+    .fugu--blog-post-thumb {
+        height: auto;
+        height: auto;
+    }
+
+    .light-version .fugu--blog-top-wrap .fugu--blog-content h3 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .fugu--single-thumb {
+        margin-bottom: 40px;
+    }
+
+    .fugu--post-navigation-wrap {
+        margin-bottom: 40px;
+        display: block;
+    }
+
+    .fugu--post-navigation.nav-previous {
+        border: none;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    .fugu--post-navigation.nav-next {
+        padding: 0;
+    }
+
+    .fugu--comment-wrap {
+        margin-bottom: 40px;
+    }
+
+    .fugu--comment-list li.children {
+        padding-left: 0;
+    }
+
+    .fugu-contact-info {
+        margin-top: 30px;
+    }
+
+    .fugu-contact-wrap {
+        padding: 30px;
+        margin-top: 30px;
+    }
+
+    #map {
+        height: 450px;
+    }
+
+    .fugu-center-btn {
+        margin-top: 40px;
+    }
+
+    .fugu--contact-info.fugu--contact-info2 {
+        margin-top: 40px;
+    }
+
+    .fugu--contact-form {
+        padding: 30px;
+        margin-top: 40px;
+    }
+
+    .fugu--contact-column {
+        padding-bottom: 100px;
+    }
+
+    .fugu-single-career-item {
+        margin-bottom: 30px;
+    }
+
+    .fugu-career-sidebar {
+        padding: 30px;
+        margin-top: 40px;
+        position: static;
+    }
+
+    .fugu-career-time2 {
+        margin-bottom: 30px;
+    }
+
+    .fugu-gallery-menu {
+        margin-bottom: 60px;
+    }
+
+    .fugu-gallery-menu ul li {
+        margin-right: 15px;
+    }
+
+    .fugu-gallery-item.item2 {
+        margin-bottom: 30px;
+    }
+
+    .fugu-portfolio-btn {
+        margin-top: 20px;
+    }
+
+    .border_bottom {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+
+    .fugu-gallery-data4 {
+        margin-bottom: 35px;
+    }
+
+    .fugu-portfolio-ratated-project {
+        padding-top: 35px;
+    }
+
+    .fugu-portfolio-ratated-project p {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .fugu--blog-title h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .fugu--blog-wrap2 .fugu--blog-thumb {
+        height: auto;
+    }
+
+    .fugu--blog-wrap2 .fugu--blog-title h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .fugu-hero-section {
+        padding: 120px 0 0;
+    }
+
+    a.fugu-app-btn {
+        width: 160px;
+    }
+
+    .fugu-hero-section2 {
+        padding: 150px 0 190px;
+    }
+
+    .fugu-hero-section2:after {
+        content: "";
+        left: 0;
+        top: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        opacity: 0.15;
+        position: absolute;
+        background-color: #000;
+    }
+
+    .fugu-hero-section2:before {
+        border-radius: 0;
+    }
+
+    .fugu-single-thumb {
+        margin-top: -120px;
+    }
+
+    .fugu-shape4 {
+        display: none;
+    }
+
+    .fugu-shape5 {
+        display: none;
+    }
+
+    .fugu--hero-section {
+        padding: 150px 0 80px;
+    }
+
+    .fugu--hero-content {
+        max-width: 500px;
+    }
+
+    .fugu--hero-right {
+        width: 100%;
+    }
+
+    .fugu--hero-section2 {
+        padding: 150px 0 80px;
+    }
+
+    .fugu--hero-content2 {
+        max-width: 445px;
+    }
+
+    .fugu--hero-mocup {
+        display: none;
+    }
+
+    .fugu-counter-data:nth-child(3) {
+        margin-left: 0;
+        margin-top: -58px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data {
+        flex: 0 0 50%;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data:nth-child(3) {
+        margin-bottom: 0;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data:nth-child(4) {
+        margin-bottom: 0;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data h2 {
+        font-size: 36px;
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data h2:before {
+        width: 60px;
+        height: 60px;
+        left: 45%;
+        transform: translateX(-50%);
+    }
+
+    .fugu--counter-wrap3 .fugu--counter-data p {
+        font-size: 18px;
+    }
+
+    .fugu-team-page {
+        padding-top: 80px;
+    }
+
+    .fugu-team-wrap.wrap2 {
+        height: 100%;
+    }
+
+    .fugu-single-team-page {
+        padding: 80px 0;
+    }
+
+    .fugu-team-single-wrap {
+        padding: 30px;
+    }
+
+    .fugu--team-two {
+        padding: 0 0 80px;
+    }
+
+    .version-04.fugu--team-two {
+        padding: 80px 0 40px;
+    }
+
+    .fugu-iconbox-wrap6 {
+        padding: 0 20px;
+    }
+
+    .fugu-iconbox-border:before {
+        content: none;
+    }
+
+    .fugu--roadmap-section {
+        padding: 80px 0 40px;
+    }
+
+    .fugu--roadmap-section .fugu--iconbox-wrap:before {
+        content: none;
+    }
+
+    .nexto-accordion-one .accordion-button {
+        line-height: 28px;
+        font-size: 18px;
+        padding: 20px;
+    }
+
+    .nexto-accordion-one .accordion-body {
+        padding: 0 20px 20px 20px;
+    }
+
+    .fugu-tab-menu {
+        margin-bottom: 20px;
+    }
+
+    .fugu-tab-menu .nav {
+        justify-content: space-between;
+    }
+
+    .fugu-tab-menu .nav-tabs {
+        border: none;
+    }
+
+    .fugu-tab-menu .nav-tabs .nav-link {
+        margin: 10px;
+    }
+
+    .fugu--accordion-one .accordion-button {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .fugu--accordion-one.accordion-two .accordion-body {
+        padding: 0 20px 20px 52px;
+    }
+
+    a.fugu-popup img {
+        width: 75px;
+    }
+
+    .fugu--video-thumb .fugu--popup {
+        width: 60px;
+        height: 60px;
+    }
+
+    .waves {
+        width: 130px;
+        height: 130px;
+    }
+
+    .fugu--video-wrap .fugu--popup {
+        width: 75px;
+        height: 75px;
+    }
+
+    .fugu--video-column .fugu--video-thumb:last-child {
+        padding-top: 0;
+    }
+
+    .fugu--play-btn img {
+        width: 15px;
+    }
+
+    .fugu-testimonial-slider .fugu-testimonial-card {
+        margin: 0;
+    }
+
+    .fugu-cta-section {
+        padding: 80px 0;
+    }
+
+    .fugu--cta-wrap {
+        padding: 50px;
+    }
+
+    .fugu-social-icon3 {
+        top: 50px;
+    }
+
+    .fugu-client-section {
+        padding: 60px 0;
+    }
+
+    .pricing-btn label {
+        margin: 0 15px;
+    }
+
+    .fugu-section-padding {
+        padding: 80px 0;
+    }
+
+    .fugu-section-padding2 {
+        padding: 70px 0 80px;
+    }
+
+    .fugu-section-padding3 {
+        padding: 70px 0 56px;
+    }
+
+    .fugu-section-title.title-large h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .fugu-default-content.large-content h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .fugu--section-padding {
+        padding: 70px 0 80px;
+    }
+
+    .fugu--section-padding2 {
+        padding: 70px 0 55px;
+    }
+
+    .fugu--section-padding-bottom {
+        padding: 0 0 80px;
+    }
+
+    .fugu--section-title .fugu--default-content p {
+        padding: 0;
+    }
+
+    .fugu--default-content.content-sm h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .fugu--default-content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .fugu-shape3 {
+        display: none;
+    }
+
+    .fugu-error-content {
+        padding: 130px 0 70px;
+    }
+
+    .fugu-error-content h1 {
+        font-size: 100px;
+        line-height: 120px;
+    }
+
+    .fugu-error-content p {
+        padding: 0;
+    }
+
+    .fugu-countdown-item {
+        width: 150px;
+        height: 150px;
+    }
+
+    .fugu-countdown-item:nth-child(2) {
+        margin-left: -15px;
+    }
+
+    .fugu-countdown-item:nth-child(3) {
+        margin-left: -15px;
+    }
+
+    .fugu-countdown-item:nth-child(4) {
+        margin-left: -15px;
+    }
+
+    .fugu-countdown-item .number {
+        font-size: 36px;
+    }
+
+    .fugu--portfolio-menu ul li {
+        flex: 0 0 48.5%;
+    }
+
+    .fugu--newslatter-wrap {
+        padding: 50px;
+    }
+
+    .fugu-text-slider-data {
+        text-align: center;
+        display: block !important;
+    }
+
+    .fugu-trading-card2 .fugu-trading-card-thumb {
+        padding-left: 80px;
+    }
+
+    .fugu-trading-section2 {
+        padding: 80px 0;
+    }
+
+    .fugu--about-section {
+        padding: 80px 0;
+    }
+
+    .fugu--artwork-section {
+        padding: 80px 0 0;
+    }
+
+    .fugu--client-section {
+        padding: 0 0 80px;
+    }
+
+    .fugu--content-top {
+        padding: 0 0 80px;
+    }
+
+    .fugu-innovative-services-section {
+        padding-top: 80px;
+    }
+
+    .fugu-innovative-services-section .fugu-default-content h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .fugu-about-section {
+        padding: 80px 0;
+    }
+
+    .fugu-about-section .fugu-default-content h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .fugu--about-hero-section.dark-version {
+        padding: 60px 0;
+    }
+
+    .fugu-user-wrap {
+        display: block;
+    }
+
+    .fugu-user-thumb {
+        margin: 0 0 15px;
+    }
+
+    .fugu-blog-post-wrap {
+        display: block;
+    }
+
+    .fugu-blog-post-column.post-column-right {
+        margin-top: 30px;
+    }
+
+    .fugu-comment-item:nth-child(2) {
+        padding-left: 0;
+    }
+
+    .fugu-comment-author-data {
+        margin-right: 0;
+    }
+
+    .fugu-input-field-section .fugu-input-field textarea {
+        height: 100px;
+    }
+
+    .fugu-input-field-section button#fugu-input-submit {
+        margin-top: 0;
+    }
+
+    .fugu--blog-top-wrap {
+        padding-bottom: 80px;
+        padding-bottom: 80px;
+    }
+
+    .fugu--blog-sidebar-section.light-version {
+        padding-bottom: 80px;
+        padding-bottom: 80px;
+    }
+
+    .fugu--blog-filtering.dark-version {
+        padding-top: 75px;
+        padding-top: 75px;
+    }
+
+    .fugu--blog-filtering .fugu--portfolio-menu ul li {
+        flex: 0 0 48.5%;
+        flex: 0 0 48.5%;
+    }
+
+    .fugu--blog-filtering .fugu--section-title-wrap {
+        display: block;
+        margin-bottom: 40px;
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .light-version .fugu--blog-top-wrap .fugu--blog-content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .fugu--single-blog .fugu--breadcrumbs-data p {
+        margin-right: 40px;
+    }
+
+    .fugu--blockquote {
+        margin: 30px 0;
+    }
+
+    .fugu--blockquote blockquote {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .fugu--tags.fugu--tags2 {
+        margin-bottom: 34px;
+    }
+
+    .fugu--comment-body {
+        display: block;
+    }
+
+    .fugu--comment-author {
+        margin-bottom: 20px;
+    }
+
+    #map {
+        height: 300px;
+    }
+
+    .fugu--contact-info.fugu--contact-info2 {
+        margin-right: 0;
+    }
+
+    .fugu--contact-column {
+        padding-bottom: 80px;
+    }
+
+    .fugu-gallery-menu {
+        margin-bottom: 30px;
+        border: none;
+    }
+
+    .fugu-gallery-menu ul li {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 766px) {
+    .fugu-trading-card-thumb {
+        padding-left: 70px;
+    }
+
+    .fugu-shape6 {
+        left: -40%;
+    }
+}
+
+@media (max-width: 600px) {
+    .fugu--text-slider-data {
+        text-align: center;
+        display: block !important;
+    }
+
+    .fugu--text-slider-icon {
+        margin-bottom: 10px;
+    }
+
+    .fugu-text-slider-icon {
+        margin-bottom: 10px;
+    }
+
+    .fugu-gallery-data4 ul li {
+        flex: 0 0 50%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 575px) {
+    .fugu--footer-menu {
+        margin-bottom: 40px;
+    }
+
+    .fugu-hero-content h1 {
+        padding: 0;
+    }
+
+    .fugu-app-btn-wrap {
+        margin: 30px 0 40px;
+    }
+
+    a.fugu-app-btn {
+        margin: 10px;
+    }
+
+    .fugu-hero-client-area {
+        display: block;
+        margin: 0;
+    }
+
+    .fugu-hero-client-wrap {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .fugu-hero-client-thumb {
+        margin: 0 0 15px;
+    }
+
+    .fugu-hero-client-rating {
+        margin: 0;
+        padding: 0;
+    }
+
+    .fugu-hero-client-rating:before {
+        content: none;
+    }
+
+    .fugu--hero-section {
+        padding: 130px 0 80px;
+    }
+
+    .fugu--hero-right .fugu--card-data {
+        padding: 20px 5px 5px;
+    }
+
+    .fugu--hero-right .fugu--card-data h3 {
+        font-size: 24px;
+    }
+
+    .fugu--hero-right .fugu--card-data .fugu--card-footer-data h4 {
+        font-size: 24px;
+    }
+
+    .fugu--cta-wrap {
+        padding: 35px;
+    }
+
+    .fugu-countdown-wrap {
+        flex-wrap: wrap;
+    }
+
+    .fugu-trading-card2 .fugu-trading-card-thumb {
+        margin-bottom: 50px;
+    }
+
+    .fugu-shape6 {
+        display: none;
+    }
+
+    .fugu-shape7 {
+        display: none;
+    }
+
+    .fugu--artwork-data {
+        width: 150px;
+        height: 150px;
+        left: 0;
+        bottom: 0;
+    }
+
+    .fugu--artwork-data p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .fugu--content-top .fugu--default-content {
+        margin-right: 0;
+    }
+
+    .fugu--feature-data span {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    .fugu--blockquote blockquote {
+        padding: 30px;
+    }
+
+    .fugu--blockquote-icon {
+        top: 0;
+        left: 0;
+        margin-bottom: 20px;
+        position: inherit;
+    }
+}
+
+
+@media (max-width: 550px) {
+    .fugu-hero-content2 p {
+        padding: 0;
+    }
+}
+
+@media (max-width: 540px) {
+    .fugu--video-section2 .fugu--default-content.content-sm h2 {
+        padding: 0;
+    }
+}
+
+@media (max-width: 420px) {
+    .fugu--portfolio-menu ul li {
+        flex: 0 0 100%;
+    }
+
+    .fugu--blog-filtering .fugu--portfolio-menu ul li {
+        flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+}
+
+
+@media (max-width: 479px) {
+    .fugu-hero-content {
+        margin: 0 0 50px;
+    }
+
+    .fugu-hero-section2 {
+        padding: 120px 0 190px;
+    }
+
+    .fugu--hero-section2 {
+        padding: 120px 0 80px;
+    }
+
+    .fugu--hero-section3 {
+        padding: 130px 0 80px;
+    }
+
+    .fugu-counter-data:nth-child(2) {
+        margin-left: 0;
+        margin-top: -30px;
+        margin-top: -30px;
+    }
+
+    .fugu-counter-data:nth-child(3) {
+        margin-top: -30px;
+    }
+
+    .fugu-team-single-footer {
+        display: block;
+    }
+
+    .fugu-team-single-footer .fugu-social-icon {
+        margin: 0 0 20px;
+    }
+
+    .fugu-iconbox-wrap {
+        display: block;
+    }
+
+    .fugu-iconbox-icon {
+        margin: 0 0 25px;
+    }
+
+    .fugu--video-wrap .fugu--popup {
+        width: 55px;
+        height: 55px;
+    }
+
+    .fugu-section-title.title-large h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .fugu-default-content.large-content h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .fugu--content-bottom .fugu--content-thumb .fugu--bitcoin {
+        right: 0;
+    }
+
+    .fugu-about-thumb {
+        padding-right: 50px;
+    }
+
+    .fugu--single-blog .fugu--breadcrumbs-data p {
+        margin: 0 0 20px;
+    }
+}
+
+@media (max-width: 410px) {
+    .fugu--btn-wrap.fugu--hero-btn .fugu--btn {
+        margin: 0 10px 15px;
+    }
+
+    .fugu--counter-wrap {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 400px) {
+    .fugu--newslatter-wrap {
+        padding: 30px;
+    }
+}
+

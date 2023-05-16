@@ -485,14 +485,22 @@ a.log-in-btn:hover:after {
 
 .card-coin {
   background: transparent;
+  padding: 40px 0;
 }
 
 .card-coin h2 {
   font-size: 22px;
+  line-height: 1;
 }
+
+
 
 .card-coin .h2 {
   font-size: 22px;
+}
+
+.card-coin-title {
+  margin-bottom: 2rem;
 }
 
 .light-version {

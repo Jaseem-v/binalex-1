@@ -10111,5 +10111,120 @@ circle {
 .fugu-portfolio-ratated-project .fugu-gallery-data p {
     font-size: 14px;
 }
+
 /*  */
 
+
+
+.social-btn {
+    color: #fff !important;
+    border-color: transparent !important;
+}
+
+
+.fugu-iconbox-wrap4 {
+    background: #ffe29a;
+    color: #fff !important;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.fugu-iconbox-wrap4:hover {
+    transform: scale(1.05);
+    background-color: #f9b40b;
+    color: white !important;
+}
+
+.fugu-iconbox-wrap4:hover .fugu-iconbox-data4 h4 {
+    color: #fff !important;
+}
+
+.fugu-iconbox-wrap4:hover img {
+    filter: invert(1);
+}
+
+.steps-section {
+    background-image: url(../images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    /* background: linear-gradient(transparent 50%, #f9b40b 50%); */
+
+    background: #f9b40b !important;
+}
+
+.steps-section .fugu-section-title {
+    margin-bottom: 110px;
+}
+
+.fugu-iconbox-border {
+    margin-bottom: 20px;
+}
+
+
+.fugu-iconbox-wrap6 .icon-box {
+    display: inline-block;
+    vertical-align: middle;
+    width: 140px;
+    height: 140px;
+    border: 3px solid #171717;
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+    transition: all 0.3s;
+    background-color: #fff;
+    margin-top: -50px;
+    margin-bottom: 20px;
+    /* transform: translateY(-20px); */
+}
+
+.fugu-iconbox-wrap6 i {
+    font-size: 55px;
+    line-height: 134px;
+    color: #171717;
+}
+
+.fugu-iconbox-wrap6:hover .icon-box {
+    box-shadow: 0 0 35px 5px white;
+    outline: 5px solid #f9b40b;
+    transform: scale(1.1);
+}
+
+.fugu-iconbox-wrap6 .count {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 3px solid #171717;
+    background: #f9b40b;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: -18px;
+    text-align: center;
+    font-weight: 600;
+    color: #171717;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.accordion-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.accordion-button::after {
+    display: none;
+}
+
+.accordion-button i {
+    transform: rotate(180deg);
+}
+
+.accordion-button.collapsed i {
+    transform: rotate(0deg);
+}
