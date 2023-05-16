@@ -1095,6 +1095,11 @@ a.log-in-btn:hover:after {
 
 }
 
+.bg-whatsapp i ,.bg-telegram i{
+  font-size: 20px;
+
+}
+
 .bg-whatsapp:hover {
   background: #52ce5ebb !important;
 }
