@@ -502,8 +502,10 @@ a.log-in-btn:hover:after {
 
 .card-coin:hover {
   /* background: #ffc947; */
-  background-color: #FAD961;
-  background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+  /* background-color: #FAD961; */
+  /* background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%); */
+
+
 
   box-shadow: 0 1px 15px rgba(0, 0, 0, .1);
   transform: scale(1.05);
@@ -511,6 +513,18 @@ a.log-in-btn:hover:after {
 
 .card-coin:hover h2 {
   color: #fff !important;
+}
+
+.card-coin--1:hover {
+  background-image: linear-gradient(180deg, #000000 0%, #f5d477 100%);
+}
+
+.card-coin--2:hover {
+  background-image: linear-gradient(180deg, #000000 0%, #50AF95 100%);
+}
+
+.card-coin--3:hover {
+  background-image: linear-gradient(180deg, #000000 0%, #FFFFFF 100%);
 }
 
 .card-coin h2 {
@@ -1095,7 +1109,8 @@ a.log-in-btn:hover:after {
 
 }
 
-.bg-whatsapp i ,.bg-telegram i{
+.bg-whatsapp i,
+.bg-telegram i {
   font-size: 20px;
 
 }
@@ -1104,6 +1119,6 @@ a.log-in-btn:hover:after {
   background: #52ce5ebb !important;
 }
 
-.section-bottom-padding{
+.section-bottom-padding {
   padding-bottom: 150px !important;
 }
