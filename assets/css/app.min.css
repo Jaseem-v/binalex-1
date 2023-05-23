@@ -10146,6 +10146,10 @@ circle {
     /* color: #fff !important; */
 }
 
+.fugu-iconbox-data4{
+    color: #000;
+}
+
 .fugu-iconbox-wrap4:hover img {
     /* filter: invert(1); */
 }
@@ -10317,4 +10321,8 @@ circle {
 .fugu--blog-wrap {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 8px;
     ;
+}
+
+.fugu-iconbox-wrap4 {
+    height: 100%;
 }

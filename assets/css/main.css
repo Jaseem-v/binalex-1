@@ -1226,6 +1226,46 @@ a.log-in-btn:hover:after {
 }
 
 .what-btn {
-  background: linear-gradient(to bottom,  #4CC713 0%, #3aa856 100%);
+  background: linear-gradient(to bottom, #4CC713 0%, #3aa856 100%);
+
+}
+
+.bg-usdt {
+  background-image: linear-gradient(180deg, #000000 0%, #50AF95 100%) !important;
+}
+
+.buy-text-h2 {
+  font-size: 30px !important;
+  line-height: 1 !important;
+}
+
+.buy-text-h2 span {
+  color: #50AF95;
+}
+
+.fugu-iconbox-wrap3 {
+  height: 100%;
+}
+
+.fugu-iconbox-wrap3 h4,
+.fugu-iconbox-wrap3 p {
+  color: #13111a !important;
+
+}
+
+.icon-bitcoin svg {
+  width: 60px;
+  height: 60px;
+  color: #F2A900 !important;
+  fill: #F2A900 !important;
+}
+
+.color-bitcoin span {
+  color: #F2A900 !important;
+}
+
+.fugu-iconbox-wrap3.card-coin--1:hover .fugu-iconbox-data3 h4,
+.fugu-iconbox-wrap3.card-coin--1:hover .fugu-iconbox-data3 p {
+  color: #fff !important;
 
 }
