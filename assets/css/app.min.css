@@ -3685,7 +3685,7 @@ button#fugu--search-btn {
 }
 
 .fugu-breadcrumb-section {
-    padding: 188px 0 120px;
+    padding: 100px 0 60px;
     position: relative;
     background-color: var(--warning-400);
 }
@@ -3695,7 +3695,7 @@ button#fugu--search-btn {
 }
 
 .breadcrumb {
-    margin: 45px 0 0;
+    margin: 20px 0 0;
     justify-content: center;
 }
 
