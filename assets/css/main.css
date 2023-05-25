@@ -1265,8 +1265,17 @@ a.log-in-btn:hover:after {
   fill: #000000 !important;
 }
 
+.icon-usdt svg {
+  color: #50AF95 !important;
+  fill: #50AF95 !important;
+}
+
 .color-bitcoin span {
   color: #F2A900 !important;
+}
+
+.color-usdt span {
+  color: #50AF95 !important;
 }
 
 .fugu-iconbox-wrap3.card-coin--1:hover .fugu-iconbox-data3 h4,
@@ -1298,4 +1307,8 @@ a.log-in-btn:hover:after {
   -webkit-text-fill-color: transparent;
 
 
+}
+
+.section-usdt-padding {
+  padding-top: 180px !important;
 }
