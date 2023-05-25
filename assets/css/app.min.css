@@ -6696,7 +6696,8 @@ a.fugu-popup img:hover {
 }
 
 .fugu-icon-list3 ul li img {
-    top: -2px;
+    top: 12px;
+    left: 7px;
 }
 
 .pricing-btn {
@@ -10146,7 +10147,7 @@ circle {
     /* color: #fff !important; */
 }
 
-.fugu-iconbox-data4{
+.fugu-iconbox-data4 {
     color: #000;
 }
 
@@ -10325,4 +10326,26 @@ circle {
 
 .fugu-iconbox-wrap4 {
     height: 100%;
+}
+
+
+.buy-features li p {
+    font-weight: 400;
+    margin-top: 10px;
+    font-size: 16px;
+    display: none;
+
+}
+
+.buy-features li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.buy-features li.active {
+    border: 1px solid #26242c;
+}
+
+.buy-features li.active p {
+    display: block;
 }

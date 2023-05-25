@@ -1260,6 +1260,11 @@ a.log-in-btn:hover:after {
   fill: #F2A900 !important;
 }
 
+.icon-ethereum svg {
+  color: #000000 !important;
+  fill: #000000 !important;
+}
+
 .color-bitcoin span {
   color: #F2A900 !important;
 }
@@ -1267,5 +1272,28 @@ a.log-in-btn:hover:after {
 .fugu-iconbox-wrap3.card-coin--1:hover .fugu-iconbox-data3 h4,
 .fugu-iconbox-wrap3.card-coin--1:hover .fugu-iconbox-data3 p {
   color: #fff !important;
+
+}
+
+.fugu-iconbox-wrap3.card-coin--3:hover .fugu-iconbox-data3 h4,
+.fugu-iconbox-wrap3.card-coin--3:hover .fugu-iconbox-data3 p {
+  color: #fff !important;
+
+}
+
+.fugu-iconbox-wrap3.card-coin--2:hover .fugu-iconbox-data3 h4,
+.fugu-iconbox-wrap3.card-coin--2:hover .fugu-iconbox-data3 p {
+  color: #fff !important;
+
+}
+
+.color-etherium span {
+  color: #000000;
+  background-image: linear-gradient(180deg, #000000 0%, #FFFFFF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+
 
 }
