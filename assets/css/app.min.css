@@ -10358,3 +10358,7 @@ circle {
 .buy-features li.active p {
     display: block;
 }
+
+.fugu-iconbox-wrap3 {
+    box-shadow: 0 1px 8px rgba(0, 0, 0, .1);
+}
