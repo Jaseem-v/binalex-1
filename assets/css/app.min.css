@@ -7425,8 +7425,17 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu-default-content.large-content h2 {
-    font-size: 68px;
-    line-height: 75px;
+    font-size: 55px;
+    line-height: 1;
+    text-transform: uppercase;
+
+}
+
+.fugu-default-content.large-content h2 p {
+    font-weight: 100;
+    display: block;
+    margin: 10px 0;
+
 }
 
 .fugu-default-content.content-white h2 {
