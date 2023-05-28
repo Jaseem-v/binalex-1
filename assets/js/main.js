@@ -1127,14 +1127,23 @@ const featuresItems = document.querySelectorAll(".buy-features li ")
 featuresItems.forEach((e) => {
     e.addEventListener("click", (el, _, arr) => {
 
-        featuresItems.forEach((n) => {
-            n.classList.remove("active")
-        })
-        featuresItems.forEach((n) => {
-            if (el.target.getAttribute("id") == n.getAttribute("id")) {
-                n.classList.add("active")
-            }
-        })
+        if (el.target.classList.contains("active"))
+            el.target.classList.remove("active")
+
+        else {
+
+
+            featuresItems.forEach((n) => {
+                n.classList.remove("active")
+            })
+            featuresItems.forEach((n) => {
+                if (el.target.getAttribute("id") == n.getAttribute("id")) {
+                    n.classList.toggle("active")
+                }
+            })
+
+        }
+
 
     })
 })
