@@ -229,7 +229,7 @@
 .site-menu-main .nav-link-item {
   color: #fff;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
   letter-spacing: normal;
   position: relative;
@@ -277,7 +277,7 @@
 .site-menu-main .sub-menu--item>a {
   color: inherit;
   padding: 6px 20px;
-  font-weight: 700;
+  font-weight: 400;
   color: #000;
 }
 
