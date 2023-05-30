@@ -222,7 +222,7 @@ html {
 body {
     height: 100%;
     color: rgba(19, 17, 26, .8);
-    font-family: "Graphik", Inter, sans-serif;
+    font-family: "Graphik", Inter, sans-serif !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: baseline;
@@ -872,7 +872,7 @@ ul {
 .h2 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 300;
     font-size: 48px;
     line-height: 60px;
     margin-bottom: 15px;
@@ -881,7 +881,7 @@ ul {
 .h3 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 30px;
     line-height: 42px;
     margin-bottom: 15px;
@@ -890,17 +890,17 @@ ul {
 .h4 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 24px;
     line-height: 30px;
     margin-bottom: 15px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .h5 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     margin-bottom: 15px;
@@ -909,7 +909,7 @@ ul {
 .h6 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 400;
 }
 
 h1 {
@@ -925,7 +925,7 @@ h1 {
 h2 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 300;
     font-size: 40px;
     line-height: 60px;
     margin-bottom: 15px;
@@ -934,7 +934,7 @@ h2 {
 h3 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 500;
     font-size: 30px;
     line-height: 42px;
     margin-bottom: 15px;
@@ -943,17 +943,17 @@ h3 {
 h4 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 20px;
     line-height: 30px;
     margin-bottom: 15px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 h5 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 300;
     font-size: 15px;
     line-height: 28px;
     margin-bottom: 15px;
@@ -962,7 +962,7 @@ h5 {
 h6 {
 
     color: var(--gray-800);
-    font-weight: 700;
+    font-weight: 200;
 }
 
 p {
@@ -1238,7 +1238,7 @@ p:last-child {
 }
 
 .font-semibold {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 a {
@@ -2658,7 +2658,7 @@ footer.fugu-footer-section {
 }
 
 .fugu-footer-menu span {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     margin-bottom: 25px;
@@ -2740,7 +2740,7 @@ footer.fugu-foote2-section .fugu-default-content .fugu-app-btn-wrap {
 }
 
 .fugu-footer-menu2 ul li a {
-    font-weight: 600;
+    font-weight: 500;
     color: var(--gray-10);
     transition: all 0.4s;
 }
@@ -2750,7 +2750,7 @@ footer.fugu-foote2-section .fugu-default-content .fugu-app-btn-wrap {
 }
 
 .fugu-email {
-    font-weight: 600;
+    font-weight: 500;
     color: var(--gray-10);
     display: flex;
     align-items: center;
@@ -2832,7 +2832,7 @@ footer.fugu--footer-section {
 }
 
 .fugu--footer-menu span {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1;
     margin-bottom: 30px;
@@ -2956,7 +2956,7 @@ footer.fugu--foote2-section .fugu--default-content {
 }
 
 .fugu--footer-menu2 ul li a {
-    font-weight: 600;
+    font-weight: 500;
     color: var(--gray-800);
     transition: all 0.4s;
 }
@@ -3708,7 +3708,7 @@ button#fugu--search-btn {
 }
 
 .breadcrumb .breadcrumb-item.active {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .fugu-shape8 {
@@ -3785,7 +3785,7 @@ button#fugu--search-btn {
 
 .fugu--breadcrumbs-data h1 {
     letter-spacing: -1px;
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .fugu--breadcrumbs-data p {
@@ -4224,7 +4224,7 @@ button#fugu--search-btn {
 }
 
 .fugu--card-data h3 {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     color: var(--gray-10);
@@ -4233,7 +4233,7 @@ button#fugu--search-btn {
 }
 
 .fugu--card-data p {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 20px;
     color: var(--gray-10);
@@ -4253,7 +4253,7 @@ button#fugu--search-btn {
 }
 
 .fugu--card-footer-data span {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 20px;
     color: var(--gray-10);
@@ -4408,7 +4408,7 @@ button#fugu--search-btn {
 }
 
 .fugu--blog-date ul li {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1;
     display: flex;
@@ -4460,7 +4460,7 @@ button#fugu--search-btn {
 
 .fugu--blog-user-data span {
     display: block;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     color: #fff;
 }
@@ -4764,7 +4764,7 @@ a.fugu-app-btn:last-child {
 
 .fugu--hero-content h1 {
     color: #fff;
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .fugu--hero-content p {
@@ -5061,7 +5061,7 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu--counter-wrap2 .fugu--counter-data p {
-    font-weight: 600;
+    font-weight: 500;
     opacity: 1 !important;
 }
 
@@ -5076,7 +5076,7 @@ a.fugu-app-btn:last-child {
     margin: 0 0 20px;
     font-size: 60px;
     color: var(--gray-800);
-    font-family: "Space Grotesk", sans-serif;
+
     position: relative;
 }
 
@@ -5211,7 +5211,7 @@ a.fugu-app-btn:last-child {
 
 .fugu-team-single-data span {
     display: block;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 15px;
     color: var(--gray-800);
 }
@@ -5582,7 +5582,7 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu--iconbox-data h4 {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 24px;
     margin-bottom: 15px;
 
@@ -5636,7 +5636,7 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu--roadmap-v2 .fugu--iconbox-data span {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     display: block;
     margin-bottom: 10px;
@@ -5799,7 +5799,7 @@ a.fugu-faq-btn:hover {
 
 .nexto-accordion-one .accordion-button {
     padding: 30px;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1;
 
@@ -5897,7 +5897,7 @@ a.fugu-faq-btn:hover {
 
 .fugu--accordion-one .accordion-button {
     padding: 30px 0;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 24px;
     line-height: 1;
 
@@ -6270,7 +6270,7 @@ a.fugu-popup img:hover {
 }
 
 .fugu-testimonial-card2 p {
-    font-weight: 600;
+    font-weight: 500;
     color: var(--gray-800);
 }
 
@@ -6359,7 +6359,7 @@ a.fugu-popup img:hover {
 
 .fugu--testimonial-author-data span {
     display: inline-block;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     margin-bottom: 5px;
@@ -6620,7 +6620,7 @@ a.fugu-popup img:hover {
     font-size: 20px;
     line-height: 32px;
     margin: 0;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: -0.5px;
 
 }
@@ -6643,7 +6643,7 @@ a.fugu-popup img:hover {
 
 .fugu-icon-list ul li {
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     padding-left: 30px;
     margin-bottom: 18px;
@@ -6855,7 +6855,7 @@ a.fugu-popup img:hover {
     font-size: 16px;
     display: block;
     margin-bottom: 18px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .fugu-pricing-wrap.fugu-pricing-wrap3 .fugu-pricing-body ul li {
@@ -6893,7 +6893,7 @@ a.fugu-popup img:hover {
 
 .fugu-pricing-body ul li {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 11px;
     position: relative;
     padding-left: 30px;
@@ -6956,7 +6956,7 @@ a.fugu-pricing-btn.active {
     width: 178px;
     top: 27px;
     right: -42px;
-    font-weight: 600;
+    font-weight: 500;
     text-align: center;
     height: 40px;
     display: flex;
@@ -7428,6 +7428,7 @@ a.fugu-pricing-btn.active {
     font-size: 55px;
     line-height: 1;
     text-transform: uppercase;
+    font-weight: 700;
 
 }
 
@@ -7460,9 +7461,7 @@ a.fugu-pricing-btn.active {
     margin: 0 auto 75px;
 }
 
-.fugu--section-title h2 {
-    font-family: "Space Grotesk", sans-serif;
-}
+.fugu--section-title h2 {}
 
 .fugu--section-title .fugu--default-content p {
     padding: 0 20px;
@@ -7487,7 +7486,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--default-content h2 {
-    font-family: "Space Grotesk", sans-serif;
+
     color: #fff;
 }
 
@@ -7499,7 +7498,7 @@ a.fugu-pricing-btn.active {
     font-size: 42px;
     line-height: 48px;
     color: #fff;
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .fugu--default-content.content-black h2 {
@@ -7812,7 +7811,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--text-slider-data h3 {
-    font-weight: 700;
+    font-weight: 400;
     font-size: 28px;
     letter-spacing: 2px;
     display: inline-block;
@@ -8053,7 +8052,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--client-title p {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 24px;
     margin: 0;
     color: #fff;
@@ -8108,7 +8107,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu--meta ul li {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     line-height: 30px;
     position: relative;
@@ -8286,7 +8285,7 @@ a.fugu-pricing-btn.active {
     line-height: 1;
     margin-bottom: 30px;
     color: #ff6b55;
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .fugu--feature-data span {
@@ -8436,7 +8435,7 @@ a.fugu-pricing-btn.active {
     margin: 0;
     font-size: 18px;
     line-height: 38px;
-    font-weight: 600;
+    font-weight: 500;
     display: inline-block;
 
     border-bottom: 2px solid var(--gray-800);
@@ -8489,7 +8488,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-recent-post-item h6 {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 24px;
 
 }
@@ -8512,7 +8511,7 @@ a.fugu-pricing-btn.active {
 .fugu-tags ul li a {
     display: block;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 500;
     border-radius: 3px;
     text-align: center;
     padding: 13px 10px;
@@ -8680,7 +8679,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu-blog-post-arrow-data p {
-    font-weight: 600;
+    font-weight: 500;
     color: rgba(19, 17, 26, .8);
 }
 
@@ -8730,7 +8729,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-comment-author-data h6 {
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 500;
 
     margin-bottom: 5px;
 }
@@ -8762,7 +8761,7 @@ a.comment-reply:hover {
 .fugu-input-field label {
     display: block;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--gray-800);
 }
 
@@ -9020,13 +9019,13 @@ button#fugu-input-submit:hover {
 }
 
 .fugu--blog-post-data h5 {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     line-height: 30px;
 
     margin: 0;
     color: #fff;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     line-height: 30px;
 
@@ -9072,7 +9071,7 @@ button#fugu-input-submit:hover {
 
 .light-version .fugu--breadcrumbs-data h1 {
     color: var(--gray-800);
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .light-version .fugu--breadcrumbs-data p {
@@ -9122,7 +9121,7 @@ button#fugu-input-submit:hover {
 
 .light-version .fugu--blog-title h3 {
     color: var(--gray-800);
-    font-family: "Space Grotesk", sans-serif;
+
     transition: all 0.4s;
 }
 
@@ -9140,7 +9139,7 @@ button#fugu-input-submit:hover {
 
 .light-version .fugu--default-content h2 {
     color: var(--gray-800);
-    font-family: "Space Grotesk", sans-serif;
+
 }
 
 .light-version .fugu--portfolio-menu ul li {
@@ -9236,7 +9235,7 @@ button#fugu-input-submit:hover {
 }
 
 .fugu--blog-meta ul li a {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     color: #fff;
     opacity: 0.4;
@@ -9292,7 +9291,7 @@ button#fugu-input-submit:hover {
 
 .fugu--blockquote-user-data h4 {
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 5px;
     color: #fff;
 
@@ -9481,7 +9480,7 @@ button#fugu-input-submit:hover {
 
 .fugu--comment-meta h5 {
 
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     margin-bottom: 10px;
     color: #fff;
@@ -9536,7 +9535,7 @@ button#fugu-input-submit:hover {
 }
 
 .fugu-contact-info ul li a h5 {
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 5px;
 }
 
@@ -10103,7 +10102,7 @@ circle {
 
 .fugu-gallery-data4 ul li span {
     display: block;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .fugu-gallery-data4 .fugu-team-information ul {
@@ -10238,7 +10237,7 @@ circle {
     transform: translateY(-50%);
     left: -18px;
     text-align: center;
-    font-weight: 600;
+    font-weight: 500;
     color: #171717;
     display: flex;
     align-items: center;
@@ -10363,7 +10362,11 @@ circle {
     box-shadow: 0 1px 8px rgba(0, 0, 0, .1);
 }
 
-.why-icon img{
+.why-icon img {
     width: 50px;
-    
+
+}
+
+.breadcrumbs h1 {
+    font-weight: 400;
 }
