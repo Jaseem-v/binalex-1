@@ -222,7 +222,7 @@ html {
 body {
     height: 100%;
     color: rgba(19, 17, 26, .8);
-    font-family: "Graphik", Inter, sans-serif !important;
+    font-family: "Graphie", Inter, sans-serif !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: baseline;
@@ -4576,6 +4576,7 @@ a.fugu--readmore-btn span:before {
     line-height: 32px;
     letter-spacing: -0.5px;
     color: var(--gray-800);
+    font-weight: 300;
 }
 
 .fugu-app-btn-wrap {
